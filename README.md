@@ -4,6 +4,6 @@ A speech to text project done using speech recognition interface(which provides 
 <h2> TAKE NOTE </h2>
 <p> Run it in chrome, use the json package to initiate the local server on browser </p>
 
-<h3> Command Line Interface Commands for npm </h3>
+<h3> Command Line Interface commands for working with npm </h3>
 <p> 1. npm install </p>
 <p> 2. npm start </p>
